@@ -1,4 +1,7 @@
-output/
 old/
-input/
 apps/
+*.JPG
+output/views/
+output/synth_0.out
+output/screenOutput.txt
+output/prebundle.sfm

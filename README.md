@@ -1,5 +1,6 @@
 # Introduction
 PI-Plat is an end-to-end pipeline to build 3D models of panicles from images and extract traits. By tracking these traits of the same panicle at multiple developmental time points, we can explore the genetic variation for dynamic inflorescence traits in cereals and have a comprehensive understanding of the genotype-to-phenotype relationship.
+
 Please refer to our paper if our pipeline helps:
 https://www.biorxiv.org/content/10.1101/835306v1
 
