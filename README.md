@@ -24,7 +24,7 @@ System requirements are:
 Details about MVE compiling can be found in MVE project: 
 https://github.com/simonfuhrmann/mve
 
-# Steps to run pipeline
+# Steps To Run Pipeline
 ```sh
 # clone the project
 git clone https://github.com/tgaochn/Panicle-3D-Reconstruction.git
