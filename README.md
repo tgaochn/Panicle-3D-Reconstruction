@@ -41,3 +41,7 @@ python runMVE.py
 # extract traits
 
 ```
+
+# Steps To obtain 2D panicle pixel count
+matlab -nojvm -nodisplay -nosplash "Panicle_segment"
+
