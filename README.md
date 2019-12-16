@@ -38,10 +38,8 @@ matlab -nodesktop -nojvm -nosplash -r "preprocess;exit;"
 # run mve
 python runMVE.py
 
-# extract traits
-
+# extract 2D traits (panicle pixel count)
+matlab -nojvm -nodisplay -nosplash "Panicle_segment"
 ```
 
-# Steps To obtain 2D panicle pixel count
-matlab -nojvm -nodisplay -nosplash "Panicle_segment"
 
